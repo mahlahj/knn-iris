@@ -1,7 +1,7 @@
 # knn-iris
 Implementation for k-nn algorithm
 
-#Libraries
+# Libraries
 In order to run this code, you <b>MUST HAVE<b> installed globally:
 
 - Matplotlib.
